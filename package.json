@@ -1,0 +1,24 @@
+{
+  "name": "chattrbox-assignment9",
+  "version": "1.0.0",
+  "description": "Chapters 15, 16, and some of 17 in the Big Nerd Ranch book. CPSC 473 - Assignment9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akmercado29/chattrbox-Assignment9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akmercado29/chattrbox-Assignment9/issues"
+  },
+  "homepage": "https://github.com/akmercado29/chattrbox-Assignment9#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
